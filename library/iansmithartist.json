@@ -1,0 +1,7 @@
+{
+    "path": "$IANS",
+    "load_package_once": true,
+    "env": [
+            { "IANS": "PATH TO HOUDINI-PUBLIC/LIBRARY" }
+    ]
+}
