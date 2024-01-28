@@ -5,6 +5,8 @@ I'm CG Sup and freelance artist with 10+ years making immersive stuffs. Making c
 ## Houdini
 I'm sharing Houdini tips and tricks on [YouTube](https://www.youtube.com/@iansmithartist) ▶, and you can download example files from my public [Houdini repository](https://github.com/iansmithartist/houdini-public)⭐.
 
+For help downloading the repository, check out this video: [link](URL).
+
 If you find the content useful, you can support me on Ko-fi ☕.  Tips go towards the costs of GitHub. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U3TSXF2)
